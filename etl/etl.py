@@ -45,7 +45,7 @@ papers_of_this_week = [paper for paper in papers if paper.published >= seven_day
 
 # Initialize  LLM
 llm_name ="llama-3.1-70b-versatile"
-llm = ChatGroq(model="llama-3.1-70b-versatile" ,  api_key= groq_api)
+llm = ChatGroq(model="llama-3.1-70b-versatile" ,  groq_api_key= groq_api)
 
 # Initialize  Embeddings
 model_name = "BAAI/bge-large-en-v1.5"
