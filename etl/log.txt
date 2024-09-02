@@ -1,2 +1,3 @@
 2024-08-29 19:10:47: Successfully inserted paper: Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games
 2024-08-29 19:30:43: Successfully inserted paper: Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games
+2024-09-02 01:00:32: Successfully inserted paper: Orthosymplectic $R$-matrices
