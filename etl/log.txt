@@ -3,3 +3,4 @@
 2024-09-02 01:00:32: Successfully inserted paper: Orthosymplectic $R$-matrices
 2024-09-09 01:02:17: Successfully inserted paper: TOI-3568 b: a super-Neptune in the sub-Jovian desert
 2024-09-16 01:01:55: Successfully inserted paper: Tracking Network Dynamics using Probabilistic State-Space Models
+2024-09-17 14:52:43: Successfully inserted paper: MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion
