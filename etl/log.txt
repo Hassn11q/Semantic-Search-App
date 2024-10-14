@@ -7,3 +7,4 @@
 2024-09-23 01:01:14: Successfully inserted paper: Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models
 2024-09-30 01:03:27: Successfully inserted paper: Some contributions to sheaf model theory
 2024-10-07 01:03:11: Successfully inserted paper: Large Language Models as Markov Chains
+2024-10-14 01:03:19: Successfully inserted paper: Long-term evolution of spin and other properties of neutron star low-mass X-ray binaries: implications for millisecond X-ray pulsars
