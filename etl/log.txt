@@ -13,3 +13,4 @@
 2024-11-04 01:03:41: Successfully inserted paper: AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties
 2024-11-11 01:02:03: Successfully inserted paper: Bounding the dimension of exceptional sets for orthogonal projections
 2024-11-18 01:06:34: Successfully inserted paper: Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters
+2024-11-25 01:06:00: Successfully inserted paper: Hardness Amplification for Dynamic Binary Search Trees
