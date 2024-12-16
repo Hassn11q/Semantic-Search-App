@@ -16,3 +16,4 @@
 2024-11-25 01:06:00: Successfully inserted paper: Hardness Amplification for Dynamic Binary Search Trees
 2024-12-02 01:08:44: Successfully inserted paper: Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation
 2024-12-09 01:09:15: Successfully inserted paper: PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars
+2024-12-16 01:09:44: Successfully inserted paper: Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
