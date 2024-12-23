@@ -17,3 +17,4 @@
 2024-12-02 01:08:44: Successfully inserted paper: Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation
 2024-12-09 01:09:15: Successfully inserted paper: PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars
 2024-12-16 01:09:44: Successfully inserted paper: Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
+2024-12-23 01:03:34: Successfully inserted paper: Optimizing over iid distributions and the Beat the Average game
