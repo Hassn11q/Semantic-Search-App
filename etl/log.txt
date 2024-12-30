@@ -18,3 +18,4 @@
 2024-12-09 01:09:15: Successfully inserted paper: PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars
 2024-12-16 01:09:44: Successfully inserted paper: Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
 2024-12-23 01:03:34: Successfully inserted paper: Optimizing over iid distributions and the Beat the Average game
+2024-12-30 01:03:53: Successfully inserted paper: Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks
