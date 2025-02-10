@@ -24,3 +24,4 @@
 2025-01-20 01:02:08: Successfully inserted paper: FLOL: Fast Baselines for Real-World Low-Light Enhancement
 2025-01-27 01:01:42: Successfully inserted paper: Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves
 2025-02-03 01:02:08: Successfully inserted paper: Log-Gaussian Cox Processes on General Metric Graphs
+2025-02-10 01:02:42: Successfully inserted paper: Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization
