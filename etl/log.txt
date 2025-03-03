@@ -27,3 +27,4 @@
 2025-02-10 01:02:42: Successfully inserted paper: Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization
 2025-02-17 01:04:31: Successfully inserted paper: Realizing resolutions of powers of extremal ideals
 2025-02-24 01:04:24: Successfully inserted paper: A Survey of Model Architectures in Information Retrieval
+2025-03-03 01:05:30: Successfully inserted paper: Selfish mining under general stochastic rewards
