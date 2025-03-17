@@ -29,3 +29,4 @@
 2025-02-24 01:04:24: Successfully inserted paper: A Survey of Model Architectures in Information Retrieval
 2025-03-03 01:05:30: Successfully inserted paper: Selfish mining under general stochastic rewards
 2025-03-10 00:56:20: Successfully inserted paper: Algebraic growth of the Cremona group
+2025-03-17 01:07:20: Successfully inserted paper: Performance of the spin qubit shuttling architecture for a surface code implementation
