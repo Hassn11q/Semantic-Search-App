@@ -33,3 +33,4 @@
 2025-03-24 01:08:06: Successfully inserted paper: Do Visual Imaginations Improve Vision-and-Language Navigation Agents?
 2025-03-31 01:09:48: Successfully inserted paper: 3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models
 2025-04-14 01:10:19: Successfully inserted paper: Scaling and Predictability in Surface Quasi-Geostrophic Turbulence
+2025-04-21 01:11:33: Successfully inserted paper: Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction
