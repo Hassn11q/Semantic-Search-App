@@ -37,3 +37,4 @@
 2025-04-28 01:10:58: Successfully inserted paper: MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction
 2025-05-05 01:12:29: Successfully inserted paper: The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients
 2025-05-12 01:13:09: Successfully inserted paper: Artifact Sharing for Information Retrieval Research
+2025-05-19 01:14:23: Successfully inserted paper: A Tutorial on Structural Identifiability of Epidemic Models Using StructuralIdentifiability.jl
