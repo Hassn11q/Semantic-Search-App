@@ -39,3 +39,4 @@
 2025-05-12 01:13:09: Successfully inserted paper: Artifact Sharing for Information Retrieval Research
 2025-05-19 01:14:23: Successfully inserted paper: A Tutorial on Structural Identifiability of Epidemic Models Using StructuralIdentifiability.jl
 2025-05-26 01:13:03: Successfully inserted paper: Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation
+2025-06-02 01:15:06: Successfully inserted paper: Group Convolutional Neural Network Ground State of the Quantum Dimer Model
