@@ -34,7 +34,7 @@ Set up the following environment variables:
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/YourUsername/Semantic-Search-App.git
+   git clone https://github.com/Hassn11q/Semantic-Search-App.git
    cd Semantic-Search-App
    ```
 
