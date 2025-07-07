@@ -45,3 +45,4 @@
 2025-06-23 01:17:16: Successfully inserted paper: Predictions of flow distortions inside a serpentine diffuser from large-eddy simulations
 2025-06-24 18:58:22: Successfully inserted paper: Analytical transit light curves for power-law limb darkening: a comprehensive framework via fractional calculus and differential equations
 2025-06-30 01:17:32: Successfully inserted paper: Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration
+2025-07-07 01:17:20: Successfully inserted paper: Measurement as Bricolage: Examining How Data Scientists Construct Target Variables for Predictive Modeling Tasks
