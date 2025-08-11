@@ -48,3 +48,4 @@
 2025-07-07 01:17:20: Successfully inserted paper: Measurement as Bricolage: Examining How Data Scientists Construct Target Variables for Predictive Modeling Tasks
 2025-07-21 01:20:46: Successfully inserted paper: A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models
 2025-07-28 01:22:12: Successfully inserted paper: Vortex dynamics for the Gross-Pitaevskii equation
+2025-08-11 01:19:54: Successfully inserted paper: Data Analysis and Modeling for Transitioning Between Laboratory Methods for Detecting SARS-CoV-2 in Wastewater
