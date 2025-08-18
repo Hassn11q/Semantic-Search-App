@@ -49,3 +49,4 @@
 2025-07-21 01:20:46: Successfully inserted paper: A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models
 2025-07-28 01:22:12: Successfully inserted paper: Vortex dynamics for the Gross-Pitaevskii equation
 2025-08-11 01:19:54: Successfully inserted paper: Data Analysis and Modeling for Transitioning Between Laboratory Methods for Detecting SARS-CoV-2 in Wastewater
+2025-08-18 01:18:23: Successfully inserted paper: Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning
