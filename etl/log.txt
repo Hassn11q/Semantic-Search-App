@@ -52,3 +52,4 @@
 2025-08-18 01:18:23: Successfully inserted paper: Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning
 2025-08-25 01:11:45: Successfully inserted paper: Exploration of Evolving Quantum Key Distribution Network Architecture Using Model-Based Systems Engineering
 2025-09-01 01:18:09: Successfully inserted paper: System size and event shape dependence of particle-identified balance functions in proton-proton collisions at $\sqrt{s}=13$ TeV
+2025-09-08 01:09:33: Successfully inserted paper: Transition Models: Rethinking the Generative Learning Objective
