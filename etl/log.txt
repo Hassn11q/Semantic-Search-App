@@ -53,3 +53,4 @@
 2025-08-25 01:11:45: Successfully inserted paper: Exploration of Evolving Quantum Key Distribution Network Architecture Using Model-Based Systems Engineering
 2025-09-01 01:18:09: Successfully inserted paper: System size and event shape dependence of particle-identified balance functions in proton-proton collisions at $\sqrt{s}=13$ TeV
 2025-09-08 01:09:33: Successfully inserted paper: Transition Models: Rethinking the Generative Learning Objective
+2025-09-15 01:10:05: Successfully inserted paper: DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech
