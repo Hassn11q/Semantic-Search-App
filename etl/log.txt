@@ -57,3 +57,4 @@
 2025-09-22 01:10:50: Successfully inserted paper: MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration
 2025-09-29 01:07:31: Successfully inserted paper: It's Not You, It's Clipping: A Soft Trust-Region via Probability Smoothing for LLM RL
 2025-10-20 01:12:16: Successfully inserted paper: MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics
+2025-11-03 01:13:23: Successfully inserted paper: "Enough" Wigner negativity implies genuine multipartite entanglement
