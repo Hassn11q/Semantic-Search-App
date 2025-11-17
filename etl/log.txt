@@ -59,3 +59,4 @@
 2025-10-20 01:12:16: Successfully inserted paper: MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics
 2025-11-03 01:13:23: Successfully inserted paper: "Enough" Wigner negativity implies genuine multipartite entanglement
 2025-11-10 01:13:29: Successfully inserted paper: Dynamical Masses of Young Stellar Multiple Systems with the VLBA (DYNAMO-VLBA)
+2025-11-17 01:11:53: Successfully inserted paper: Excitonic Landscapes in Monolayer Lateral Heterostructures Revealed by Unsupervised Machine Learning
