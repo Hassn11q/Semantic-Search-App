@@ -61,3 +61,4 @@
 2025-11-10 01:13:29: Successfully inserted paper: Dynamical Masses of Young Stellar Multiple Systems with the VLBA (DYNAMO-VLBA)
 2025-11-17 01:11:53: Successfully inserted paper: Excitonic Landscapes in Monolayer Lateral Heterostructures Revealed by Unsupervised Machine Learning
 2025-11-24 01:15:16: Successfully inserted paper: MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support
+2025-12-01 01:23:41: Successfully inserted paper: Extendability of group actions on K3 or Enriques surfaces
