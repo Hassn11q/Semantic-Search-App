@@ -66,3 +66,4 @@
 2025-12-15 01:17:01: Successfully inserted paper: Signatures of star formation inside galactic outflows
 2025-12-22 01:18:14: Successfully inserted paper: LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation
 2025-12-29 01:21:02: Successfully inserted paper: Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction
+2026-01-12 01:21:04: Successfully inserted paper: Addressing Known Challenges in Solar Flare Forecasting I: Limb-Flare Prediction with a 4-pi Full-Heliosphere Framework
