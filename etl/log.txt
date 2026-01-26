@@ -68,3 +68,4 @@
 2025-12-29 01:21:02: Successfully inserted paper: Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction
 2026-01-12 01:21:04: Successfully inserted paper: Addressing Known Challenges in Solar Flare Forecasting I: Limb-Flare Prediction with a 4-pi Full-Heliosphere Framework
 2026-01-19 01:22:12: Successfully inserted paper: Boundary treatment algorithms for meshfree RANS turbulence modeling
+2026-01-26 01:24:05: Successfully inserted paper: Reanalyzing DESI DR1: 4. Percent-Level Cosmological Constraints from Combined Probes and Robust Evidence for the Normal Neutrino Mass Hierarchy
