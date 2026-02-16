@@ -70,3 +70,4 @@
 2026-01-19 01:22:12: Successfully inserted paper: Boundary treatment algorithms for meshfree RANS turbulence modeling
 2026-01-26 01:24:05: Successfully inserted paper: Reanalyzing DESI DR1: 4. Percent-Level Cosmological Constraints from Combined Probes and Robust Evidence for the Normal Neutrino Mass Hierarchy
 2026-02-02 01:45:30: Successfully inserted paper: SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence
+2026-02-16 01:45:24: Successfully inserted paper: Intrinsic-Energy Joint Embedding Predictive Architectures Induce Quasimetric Spaces
