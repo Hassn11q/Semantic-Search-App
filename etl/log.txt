@@ -72,3 +72,4 @@
 2026-02-02 01:45:30: Successfully inserted paper: SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence
 2026-02-16 01:45:24: Successfully inserted paper: Intrinsic-Energy Joint Embedding Predictive Architectures Induce Quasimetric Spaces
 2026-02-23 01:45:30: Successfully inserted paper: Evidence for Multimodal Superfluidity of Neutrons
+2026-03-02 01:30:44: Successfully inserted paper: Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays
