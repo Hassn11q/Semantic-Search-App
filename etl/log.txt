@@ -74,3 +74,4 @@
 2026-02-23 01:45:30: Successfully inserted paper: Evidence for Multimodal Superfluidity of Neutrons
 2026-03-02 01:30:44: Successfully inserted paper: Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays
 2026-03-09 01:44:59: Successfully inserted paper: Existence, uniqueness and moment bounds for a spatial model of Muller's ratchet
+2026-03-16 01:55:40: Successfully inserted paper: AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems
