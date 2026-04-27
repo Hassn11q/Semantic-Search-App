@@ -78,3 +78,4 @@
 2026-03-23 01:49:49: Successfully inserted paper: Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians
 2026-04-06 01:59:58: Successfully inserted paper: PRISM: LLM-Guided Semantic Clustering for High-Precision Topics
 2026-04-20 02:07:56: Successfully inserted paper: Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization
+2026-04-27 02:12:43: Successfully inserted paper: When AI Meets Terahertz: A Survey on the Symbiosis of Artificial Intelligence and Terahertz Networks
