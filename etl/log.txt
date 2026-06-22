@@ -83,3 +83,4 @@
 2026-05-11 02:38:29: Successfully inserted paper: Joint Beamforming and Antenna Placement Optimization in Pinching Antenna Systems with User Mobility: A Deep Reinforcement Learning Approach
 2026-06-08 02:59:36: Successfully inserted paper: Drifting Models for Surrogate Flow Modeling
 2026-06-15 03:35:39: Successfully inserted paper: When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing
+2026-06-22 03:36:49: Successfully inserted paper: FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS
