@@ -84,3 +84,4 @@
 2026-06-08 02:59:36: Successfully inserted paper: Drifting Models for Surrogate Flow Modeling
 2026-06-15 03:35:39: Successfully inserted paper: When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing
 2026-06-22 03:36:49: Successfully inserted paper: FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS
+2026-06-29 02:53:56: Successfully inserted paper: Sharp First-Order Lower Bounds under Sublevel $α$-Polyak-Lojasiewicz Conditions
