@@ -86,3 +86,4 @@
 2026-06-22 03:36:49: Successfully inserted paper: FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS
 2026-06-29 02:53:56: Successfully inserted paper: Sharp First-Order Lower Bounds under Sublevel $α$-Polyak-Lojasiewicz Conditions
 2026-07-06 02:38:07: Successfully inserted paper: Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
+2026-07-20 03:33:56: Successfully inserted paper: Excitonic structure in CsPbBr$_3$ nanocubes, nanorods and nanoplatelets: the effect of dimensionality
